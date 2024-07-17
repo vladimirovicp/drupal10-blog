@@ -20,6 +20,7 @@
         "drupal/core-project-message": "^10.3",
         "drupal/core-recommended": "^10.3",
         "drupal/paragraphs": "^1.17",
+        "drupal/taxonomy_menu": "^3.6",
         "drush/drush": "^12.5"
     },
     "conflict": {
