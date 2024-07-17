@@ -1,0 +1,5 @@
+name: Blog Core
+description: Blog Core Integration.
+package: Akademik
+type: module
+core_version_requirement: ^9.2 || ^10
